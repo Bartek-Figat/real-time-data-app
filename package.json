@@ -1,0 +1,19 @@
+{
+  "name": "real-time-data",
+  "version": "1.0.0",
+  "description": "Home Automation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bartek-Figat/real-time-data-app.git"
+  },
+  "author": "Bartlomiej Figatowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bartek-Figat/real-time-data-app/issues"
+  },
+  "homepage": "https://github.com/Bartek-Figat/real-time-data-app#readme"
+}
